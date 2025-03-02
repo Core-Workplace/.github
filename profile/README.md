@@ -1,0 +1,1 @@
+Core é uma plataforma para desenvolvedores se conectarem e interagirem, podendo desfrutar de todas as funcionalidades que nós oferecemos.
